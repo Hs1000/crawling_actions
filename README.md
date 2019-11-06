@@ -3,5 +3,10 @@ This is a work, which is a part of project that I am currently working upon name
 
 Dependencies
 
-#MOVIEPY
-It is a module used in python to deal with images, to convert them into a video and much more
+MOVIEPY:
+It is a module used in python to deal with images, to convert them into a video and much more.
+
+Softwares Used:
+Labelme
+Anaconda(ofcourse)
+
