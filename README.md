@@ -7,6 +7,6 @@ MOVIEPY:
 It is a module used in python to deal with images, to convert them into a video and much more.
 
 Softwares Used:
-Labelme
-Anaconda(ofcourse)
+1.Labelme
+2.Anaconda(ofcourse)
 
